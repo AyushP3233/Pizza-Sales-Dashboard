@@ -36,76 +36,77 @@ Data includes:
 The dataset spans a full calendar year and includes over 49K pizzas sold and 21K orders.
 
 5. Features / Highlights
-• Business Problem
-Pizza restaurants often struggle to identify customer preferences, underperforming items, and the impact of day or seasonality on sales. Static reports don’t provide enough insight into real-time trends.
+  • Business Problem
+   Pizza restaurants often struggle to identify customer preferences, underperforming items, and the impact of day or seasonality on sales.
+   Static reports don’t provide enough insight into real-time trends.
 
-Key questions include:
-• What are the most and least ordered pizzas?
+  Key questions include:
+  • What are the most and least ordered pizzas?
 
-• Which ingredient combinations sell the most?
+  • Which ingredient combinations sell the most?
 
-• On which days or months are pizza orders highest?
+  • On which days or months are pizza orders highest?
 
-• What’s the best-performing category or size?
-
+  • What’s the best-performing category or size?
+ 
 • Goal of the Dashboard
-To create a smart, interactive dashboard that:
-• Highlights top-selling pizza types and ingredients.
+  To create a smart, interactive dashboard that:
+  • Highlights top-selling pizza types and ingredients.
 
-• Tracks sales performance by category and time.
+  • Tracks sales performance by category and time.
+ 
+  • Identifies trends across weekdays, months, and pizza size.
 
-• Identifies trends across weekdays, months, and pizza size.
-
-• Supports decision-making on inventory, promotions, and menu planning.
+  • Supports decision-making on inventory, promotions, and menu planning.
 
 • Walkthrough of Key Visuals
-• Top KPIs (Top Row)
+  • Top KPIs (Top Row)
 
-– Total Sales: 818K
+  – Total Sales: 818K
 
-– Total Pizza Quantity: 49.57K
+  – Total Pizza Quantity: 49.57K
+  
+  – Total Orders: 21.35K
 
-– Total Orders: 21.35K
-
-– Most Ordered Item: big_meat_s
+  – Most Ordered Item: big_meat_s
 
 • Quantity by Weekday (Bar Chart)
-– Friday, Saturday, and Thursday are the highest pizza-ordering days.
+  – Friday, Saturday, and Thursday are the highest pizza-ordering days.
 
-– Sunday shows the lowest order volume.
+  – Sunday shows the lowest order volume.
 
 • Total Sales by Category (Donut Chart)
-– Veggie: 27.4%
+  – Veggie: 27.4%
 
-– Classic: 26.91%
+  – Classic: 26.91%
 
-– Supreme: 26.59%
+  – Supreme: 26.59%
 
-– Chicken: 19.1%
+  – Chicken: 19.1%
 
 • Sales by Month (Line Chart)
-– Monthly trend showing highest sales in July and March, with a dip in October.
+  – Monthly trend showing highest sales in July and March, with a dip in October.
 
 • Top 4 Pizza Sales (Horizontal Bar Chart)
-– the_greek_xxl, the_greek_xl, brie_carre_s, and ital_veggie_l lead in unit sales.
+  – the_greek_xxl, the_greek_xl, brie_carre_s, and ital_veggie_l lead in unit sales.
 
 • Top 15 Sales by Ingredients (Treemap)
-– Combos like Chicken & Pineapple, Barbecued Chicken, and Capocollo dominate in popularity.
+  – Combos like Chicken & Pineapple, Barbecued Chicken, and Capocollo dominate in popularity.
 
 • Bottom 4 Pizza Sales (Horizontal Bar Chart)
-– pepperoni_s and hawaiian_s are the least ordered pizzas.
+  – pepperoni_s and hawaiian_s are the least ordered pizzas.
 
 • Interactive Filters
-– Slicers for category, size, and weekday name allow dynamic filtering of visuals.
+  – Slicers for category, size, and weekday name allow dynamic filtering of visuals.
 
 • Business Impact & Insights
-• 📈 Menu Optimization – Focus on popular pizzas and eliminate low-selling options.
+ • 📈 Menu Optimization – Focus on popular pizzas and eliminate low-selling options.
 
-• 🍴 Ingredient Strategy – Insights on which ingredients drive the most value.
+ • 🍴 Ingredient Strategy – Insights on which ingredients drive the most value.
 
-• 📅 Peak Planning – Understand top-performing days and months for staffing and promotions.
+ • 📅 Peak Planning – Understand top-performing days and months for staffing and promotions.
 
-• 🧾 Order Behavior – Track how pizza preferences vary by category and size.
+ • 🧾 Order Behavior – Track how pizza preferences vary by category and size.
 
 6. Screenshots / Demos
 ✅ Snapshot of the Dashboard (PNG) – ![Dashboard Preview](https://github.com/AyushP3233/Pizza-Sales-Dashboard/blob/main/Snapshot%20od%20the%20Dashboard...png)
