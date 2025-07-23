@@ -11,6 +11,7 @@ A visually rich Power BI dashboard built to explore and track pizza sales by cat
 The Pizza Sales Dashboard is a detailed visual tool that showcases sales trends, most ordered pizza types, daily order patterns, and monthly sales distribution. It helps restaurant owners, marketing teams, and sales managers understand what sells best and when.
 
 3. Tech Stack
+   
 The dashboard was built using the following tools and technologies:
 • 📊 Power BI Desktop – Used to create dashboards, filters, and KPI visuals.
 • 📂 Power Query – Responsible for shaping and cleaning raw order and product data.
@@ -29,6 +30,7 @@ Data includes:
 The dataset spans a full calendar year and includes over 49K pizzas sold and 21K orders.
 
 5. Features / Highlights
+   
 • Business Problem
 Pizza restaurants often struggle to identify customer preferences, underperforming items, and the impact of day or seasonality on sales. Static reports don’t provide enough insight into real-time trends.
 
@@ -84,5 +86,5 @@ To create a smart, interactive dashboard that:
 • 🧾 Order Behavior – Track how pizza preferences vary by category and size.
 
 6. Screenshots / Demos
-✅ Snapshot of the Dashboard (PNG) – 
+✅ Snapshot of the Dashboard (PNG) – ![Dashboard Preview](https://github.com/AyushP3233/Pizza-Sales-Dashboard/blob/main/Snapshot%20od%20the%20Dashboard...png)
 
